@@ -91,4 +91,5 @@ class:  middle, no-footer
 - https://nextcloud.com/
 - https://plaintext-productivity.net/
 - https://morr.cc/home-sweet-home/
+- https://github.com/EorlBruder/vortrag-productivity
 - TODO: Skripte hochladen und verlinken 
